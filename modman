@@ -1,17 +1,10 @@
-#
-# VertNav modman file
-#
-
-app/code/community/RicoNeitzel/VertNav app/code/community/RicoNeitzel/VertNav
-app/locale/de_DE/RicoNeitzel_VertNav.csv app/locale/de_DE/RicoNeitzel_VertNav.csv
-app/locale/es_MX/RicoNeitzel_VertNav.csv app/locale/es_MX/RicoNeitzel_VertNav.csv
-app/locale/pr_BR/RicoNeitzel_VertNav.csv app/locale/pr_BR/RicoNeitzel_VertNav.csv
-app/etc/modules/RicoNeitzel_VertNav.xml app/etc/modules/RicoNeitzel_VertNav.xml
-app/design/frontend/base/default/layout/vertnav.xml app/design/frontend/base/default/layout/vertnav.xml
-app/design/frontend/base/default/template/vertnav app/design/frontend/base/default/template/vertnav
-app/design/frontend/base/default/layout/vertnav.xml app/design/frontend/default/default/layout/vertnav.xml
-app/design/frontend/base/default/template/vertnav app/design/frontend/default/default/template/vertnav
-skin/frontend/base/default/css/vertnav.css skin/frontend/base/default/css/vertnav.css
-skin/frontend/base/default/css/vertnav.css skin/frontend/default/default/css/vertnav.css
-package/connect/RicoNeitzel_VertNav.xml var/connect/RicoNeitzel_VertNav.xml
-package/pear/RicoNeitzel_VertNav.xml var/pear/RicoNeitzel_VertNav.xml
+app/code/community/RicoNeitzel/VertNav              app/code/community/RicoNeitzel/VertNav
+app/locale/de_DE/*                                  app/locale/de_DE/
+app/locale/es_MX/*                                  app/locale/es_MX/
+app/locale/pr_BR/*                                  app/locale/pr_BR/
+app/etc/modules/*                                   app/etc/modules/
+app/design/frontend/base/default/layout/*           app/design/frontend/base/default/layout/
+app/design/frontend/base/default/template/vertnav   app/design/frontend/base/default/template/vertnav
+skin/frontend/base/default/css/vertnav.css          skin/frontend/base/default/css/vertnav.css
+package/connect/RicoNeitzel_VertNav.xml             var/connect/RicoNeitzel_VertNav.xml
+package/pear/RicoNeitzel_VertNav.xml                var/pear/RicoNeitzel_VertNav.xml
